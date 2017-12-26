@@ -1,0 +1,21 @@
+# Folders
+asm
+backups
+downloads
+enderio
+journeymap
+local
+logs
+mods
+resourcepacks
+saves
+shaderpacks
+
+# Files
+BotaniaVars.dat
+minetweaker.log
+options.txt
+optionsof.txt
+usercache.json
+usernamecache.json
+minecraftinstance.json
