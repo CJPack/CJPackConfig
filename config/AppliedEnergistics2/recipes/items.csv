@@ -609,6 +609,10 @@ bigreactors:reactorcomputerport:0, Reactor Computer Port (Legacy)
 bigreactors:reactorglass:0, Reactor Glass (Legacy)
 bigreactors:reactorcontrolrod:0, Reactor Control Rod (Legacy)
 bigreactors:reactorfuelrod:0, Reactor Fuel Rod (Legacy)
+qdc_inventory_storage:book_collector, QDC Book Collector
+qdc_inventory_storage:tool_bag, QDC Tool Bag
+qdc_inventory_storage:food_bag, QDC Food Bag
+qdc_oma_qdcmobcraft:quantum_buyer_interfacer, Item Assembler - QDC MobCraft
 forge:bucketFilled, %s Bucket
 actuallyadditions:blockFarmer, Farmer
 actuallyadditions:blockBioReactor, Bio Reactor
@@ -4170,6 +4174,55 @@ appliedenergistics2:facade:0, Cable Facade - Carbon Bricks
 appliedenergistics2:facade:0, Cable Facade - Carbon Double Slab
 appliedenergistics2:facade:0, Cable Facade - Machine Framework
 appliedenergistics2:facade:0, Cable Facade - Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - tile.elevator_active_block.name
+appliedenergistics2:facade:0, Cable Facade - Elevator Inactive Core
+appliedenergistics2:facade:0, Cable Facade - Elevator Border Block
+appliedenergistics2:facade:0, Cable Facade - Alternative Door Entrance
+appliedenergistics2:facade:0, Cable Facade - Alternative Door Exit
+appliedenergistics2:facade:0, Cable Facade - Building Block
+appliedenergistics2:facade:0, Cable Facade - Plant Harvester
+appliedenergistics2:facade:0, Cable Facade - Iron Plant Harvester
+appliedenergistics2:facade:0, Cable Facade - Golden Plant Harvester
+appliedenergistics2:facade:0, Cable Facade - Diamond Plant Harvester
+appliedenergistics2:facade:0, Cable Facade - Emerald Plant Harvester
+appliedenergistics2:facade:0, Cable Facade - Seed Planter
+appliedenergistics2:facade:0, Cable Facade - Iron Seed Planter
+appliedenergistics2:facade:0, Cable Facade - Golden Seed Planter
+appliedenergistics2:facade:0, Cable Facade - Diamond Seed Planter
+appliedenergistics2:facade:0, Cable Facade - Emerald Seed Planter
+appliedenergistics2:facade:0, Cable Facade - Tree Planter
+appliedenergistics2:facade:0, Cable Facade - Iron Tree Planter
+appliedenergistics2:facade:0, Cable Facade - Golden Tree Planter
+appliedenergistics2:facade:0, Cable Facade - Diamond Tree Planter
+appliedenergistics2:facade:0, Cable Facade - Emerald Tree Planter
+appliedenergistics2:facade:0, Cable Facade - Tree Harvester
+appliedenergistics2:facade:0, Cable Facade - Iron Tree Harvester
+appliedenergistics2:facade:0, Cable Facade - Golden Tree Harvester
+appliedenergistics2:facade:0, Cable Facade - Diamond Tree Harvester
+appliedenergistics2:facade:0, Cable Facade - Emerald Tree Harvester
+appliedenergistics2:facade:0, Cable Facade - Disassembly Machine
+appliedenergistics2:facade:0, Cable Facade - tile.mob_spawner_platform_core_active_block.name
+appliedenergistics2:facade:0, Cable Facade - Mob Spawner Core
+appliedenergistics2:facade:0, Cable Facade - tile.mob_spawner_platform_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.mob_spawner_top_corner_active_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.chicken_coop_core_active_block.name
+appliedenergistics2:facade:0, Cable Facade - Chicken Coop Core
+appliedenergistics2:facade:0, Cable Facade - tile.chicken_coop_platform_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.egg_hatcher_core_active_block.name
+appliedenergistics2:facade:0, Cable Facade - Egg Hatcher Core
+appliedenergistics2:facade:0, Cable Facade - tile.egg_hatcher_platform_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.light_source_active_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.light_source_active_level_2_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.light_source_active_level_3_block.name
+appliedenergistics2:facade:0, Cable Facade - Area Light lvl1
+appliedenergistics2:facade:0, Cable Facade - Area Light lvl2
+appliedenergistics2:facade:0, Cable Facade - Area Light lvl3
+appliedenergistics2:facade:0, Cable Facade - Direction Light lvl1
+appliedenergistics2:facade:0, Cable Facade - Direction Light lvl2
+appliedenergistics2:facade:0, Cable Facade - Direction Light lvl3
+appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_level_2_block.name
+appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_level_3_block.name
 appliedenergistics2:facade:0, Cable Facade - Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Machine Base
 appliedenergistics2:facade:0, Cable Facade - Dimensional Shard Ore
@@ -4728,6 +4781,9 @@ appliedenergistics2:facade:0, Cable Facade - Zyth
 appliedenergistics2:facade:0, Cable Facade - Zyth
 appliedenergistics2:facade:0, Cable Facade - Zyth
 appliedenergistics2:facade:0, Cable Facade - Zyth
+appliedenergistics2:facade:0, Cable Facade - tile.sugarblock.name
+appliedenergistics2:facade:0, Cable Facade - tile.flintblock.name
+appliedenergistics2:facade:0, Cable Facade - tile.charcoalblock.name
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -4924,6 +4980,26 @@ aroma1997sdimension:portalFrame, Portal Frame
 aroma1997sdimension:stickyOre, Sticky Ore
 aroma1997sdimension:portalIgniter, Mining Multitool
 aroma1997sdimension:dimensionChanger, DimensionChanger
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 quark:reed_block, tile.reed_block.name
 quark:reed_block_stairs, tile.reed_block_stairs.name
 quark:reed_block_slab:0, Sugar Cane Slab
@@ -5102,24 +5178,6 @@ quark:vertical_planks:2, Vertical Birch Wood Planks
 quark:vertical_planks:3, Vertical Jungle Wood Planks
 quark:vertical_planks:4, Vertical Acacia Wood Planks
 quark:vertical_planks:5, Vertical Dark Oak Wood Planks
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
 quark:pirate_hat, item.pirate_hat.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -5174,8 +5232,6 @@ quark:basalt:1, Polished Basalt
 quark:stone_basalt_slab:0, Basalt Slab
 quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
 quark:basalt_wall, tile.basalt_wall.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -9182,7 +9238,6 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -10331,6 +10386,8 @@ environmentaltech:digital_guide, Digital Guide [WIP]
 etlunar:controller_lunar_custom, Lunar Panel Controller
 etlunar:lunar_1, Lunar Cell
 etlunar:lunarvoltaic_cell, Lunarvoltaic Cell
+exponentialpower:endercell, Ender Cell
+exponentialpower:endergenerator, Ender Generator
 mekanism:MultipartTransmitter:0, Basic Universal Cable
 mekanism:MultipartTransmitter:1, Advanced Universal Cable
 mekanism:MultipartTransmitter:2, Elite Universal Cable
@@ -11151,6 +11208,19 @@ ironchest:BlockIronChest:4, Silver Chest
 ironchest:BlockIronChest:5, Crystal Chest
 ironchest:BlockIronChest:6, Obsidian Chest
 ironchest:BlockIronChest:7, DirtChest 9000!
+lattractor:upgrade_eff_1, item.upgrade_eff_1.name
+lattractor:upgrade_eff_2, item.upgrade_eff_2.name
+lattractor:upgrade_eff_3, item.upgrade_eff_3.name
+lattractor:upgrade_luck_1, item.upgrade_luck_1.name
+lattractor:upgrade_luck_2, item.upgrade_luck_2.name
+lattractor:item_flintplate, item.item_flintplate.name
+lattractor:item_dcircuit, item.item_dcircuit.name
+lattractor:item_rcircuit, item.item_rcircuit.name
+lattractor:item_lcircuit, item.item_lcircuit.name
+lattractor:item_stcapacitymodule, item.item_stcapacitymodule.name
+lattractor:item_redstone_alloy, item.item_redstone_alloy.name
+lattractor:item_diamond_grinder, item.item_diamond_grinder.name
+lattractor:block_lightning_attractor, tile.block_lightning_attractor.name
 lootbags:itemlootbag:0, §fCommon Lootbag
 lootbags:itemlootbag:1, §aUncommon Lootbag
 lootbags:itemlootbag:2, §9Rare Lootbag
@@ -12098,6 +12168,67 @@ practicallogistics2:DataEmitter, Data Emitter
 practicallogistics2:DataReceiver, Data Receiver
 practicallogistics2:RedstoneSignaller, Redstone Signaller
 practicallogistics2:Clock, Clock
+qdc:elevator_inactive_block, Elevator Inactive Core
+qdc:elevator_active_block, tile.elevator_active_block.name
+qdc:elevator_inactive_border_block, Elevator Border Block
+qdc:door_alternative_block, Alternative Door Entrance
+qdc:door_end_point_block, Alternative Door Exit
+qdc:platform_building_block, Building Block
+qdc:quantum_exchange_interfacer, Particle Exchanger
+qdc:quantum_disassembler_interfacer, Item Disassembler
+qdc:quantum_buyer_interfacer, Item Assembler
+qdc:quantum_energy_extractor, Energy Extractor
+qdc:quantum_teleport_tablet, Teleport Tablet
+qdc:quantum_entity_trapper, Mob Trapper
+qdc:quantum_data_reciever, Data Reciever
+qdc:quantum_data_transmitter, Data Transmitter
+qdcmachines:plant_harvester_block, Plant Harvester
+qdcmachines:plant_harvester_iron_block, Iron Plant Harvester
+qdcmachines:plant_harvester_gold_block, Golden Plant Harvester
+qdcmachines:plant_harvester_diamond_block, Diamond Plant Harvester
+qdcmachines:plant_harvester_emerald_block, Emerald Plant Harvester
+qdcmachines:seed_planter_block, Seed Planter
+qdcmachines:seed_planter_iron_block, Iron Seed Planter
+qdcmachines:seed_planter_gold_block, Golden Seed Planter
+qdcmachines:seed_planter_diamond_block, Diamond Seed Planter
+qdcmachines:seed_planter_emerald_block, Emerald Seed Planter
+qdcmachines:tree_planter_block, Tree Planter
+qdcmachines:tree_planter_iron_block, Iron Tree Planter
+qdcmachines:tree_planter_gold_block, Golden Tree Planter
+qdcmachines:tree_planter_diamond_block, Diamond Tree Planter
+qdcmachines:tree_planter_emerald_block, Emerald Tree Planter
+qdcmachines:tree_harvester_block, Tree Harvester
+qdcmachines:tree_harvester_iron_block, Iron Tree Harvester
+qdcmachines:tree_harvester_gold_block, Golden Tree Harvester
+qdcmachines:tree_harvester_diamond_block, Diamond Tree Harvester
+qdcmachines:tree_harvester_emerald_block, Emerald Tree Harvester
+qdcmachines:disassembly_machine_block, Disassembly Machine
+qdcmobcraft:mob_spawner_platform_core_active_block, tile.mob_spawner_platform_core_active_block.name
+qdcmobcraft:mob_spawner_platform_core_inactive_block, Mob Spawner Core
+qdcmobcraft:mob_spawner_platform_block, tile.mob_spawner_platform_block.name
+qdcmobcraft:mob_spawner_top_corner_active_block, tile.mob_spawner_top_corner_active_block.name
+qdcmobcraft:chicken_coop_core_active_block, tile.chicken_coop_core_active_block.name
+qdcmobcraft:chicken_coop_core_inactive_block, Chicken Coop Core
+qdcmobcraft:chicken_coop_platform_block, tile.chicken_coop_platform_block.name
+qdcmobcraft:egg_hatcher_core_active_block, tile.egg_hatcher_core_active_block.name
+qdcmobcraft:egg_hatcher_core_inactive_block, Egg Hatcher Core
+qdcmobcraft:egg_hatcher_platform_block, tile.egg_hatcher_platform_block.name
+qdcmobcraft:quantum_egg_generator, Mob Container
+qdcmobcraft:quantum_mob_egg, item.quantum_mob_egg.name
+qdclights:light_source_inactive_block, Area Light lvl1
+qdclights:light_source_inactive_level_2_block, Area Light lvl2
+qdclights:light_source_inactive_level_3_block, Area Light lvl3
+qdclights:light_source_active_block, tile.light_source_active_block.name
+qdclights:light_source_active_level_2_block, tile.light_source_active_level_2_block.name
+qdclights:light_source_active_level_3_block, tile.light_source_active_level_3_block.name
+qdclights:direction_light_inactive_block, Direction Light lvl1
+qdclights:direction_light_inactive_level_2_block, Direction Light lvl2
+qdclights:direction_light_inactive_level_3_block, Direction Light lvl3
+qdclights:direction_light_active_block, tile.direction_light_active_block.name
+qdclights:direction_light_active_level_2_block, tile.direction_light_active_level_2_block.name
+qdclights:direction_light_active_level_3_block, tile.direction_light_active_level_3_block.name
+qdclights:quantum_light_interfacer, Lights Controller
+qdclights:quantum_reflector_plating, Light Reflection Plating
 quantumstorage:quantumdsu, Quantum Storage Unit
 quantumstorage:quantumtank, Quantum Tank
 quantumstorage:renderupgrade, Upgrade Render
@@ -15412,6 +15543,55 @@ thermaldynamics:cover:0, Carbon Double Slab Cover
 thermaldynamics:cover:0, Lava Cover
 thermaldynamics:cover:0, Machine Framework Cover
 thermaldynamics:cover:0, Sapphire Ore Cover
+thermaldynamics:cover:0, Elevator Inactive Core Cover
+thermaldynamics:cover:0, tile.elevator_active_block.name Cover
+thermaldynamics:cover:0, Elevator Border Block Cover
+thermaldynamics:cover:0, Alternative Door Entrance Cover
+thermaldynamics:cover:0, Alternative Door Exit Cover
+thermaldynamics:cover:0, Building Block Cover
+thermaldynamics:cover:0, Plant Harvester Cover
+thermaldynamics:cover:0, Iron Plant Harvester Cover
+thermaldynamics:cover:0, Golden Plant Harvester Cover
+thermaldynamics:cover:0, Diamond Plant Harvester Cover
+thermaldynamics:cover:0, Emerald Plant Harvester Cover
+thermaldynamics:cover:0, Seed Planter Cover
+thermaldynamics:cover:0, Iron Seed Planter Cover
+thermaldynamics:cover:0, Golden Seed Planter Cover
+thermaldynamics:cover:0, Diamond Seed Planter Cover
+thermaldynamics:cover:0, Emerald Seed Planter Cover
+thermaldynamics:cover:0, Tree Planter Cover
+thermaldynamics:cover:0, Iron Tree Planter Cover
+thermaldynamics:cover:0, Golden Tree Planter Cover
+thermaldynamics:cover:0, Diamond Tree Planter Cover
+thermaldynamics:cover:0, Emerald Tree Planter Cover
+thermaldynamics:cover:0, Tree Harvester Cover
+thermaldynamics:cover:0, Iron Tree Harvester Cover
+thermaldynamics:cover:0, Golden Tree Harvester Cover
+thermaldynamics:cover:0, Diamond Tree Harvester Cover
+thermaldynamics:cover:0, Emerald Tree Harvester Cover
+thermaldynamics:cover:0, Disassembly Machine Cover
+thermaldynamics:cover:0, tile.mob_spawner_platform_core_active_block.name Cover
+thermaldynamics:cover:0, Mob Spawner Core Cover
+thermaldynamics:cover:0, tile.mob_spawner_platform_block.name Cover
+thermaldynamics:cover:0, tile.mob_spawner_top_corner_active_block.name Cover
+thermaldynamics:cover:0, tile.chicken_coop_core_active_block.name Cover
+thermaldynamics:cover:0, Chicken Coop Core Cover
+thermaldynamics:cover:0, tile.chicken_coop_platform_block.name Cover
+thermaldynamics:cover:0, tile.egg_hatcher_core_active_block.name Cover
+thermaldynamics:cover:0, Egg Hatcher Core Cover
+thermaldynamics:cover:0, tile.egg_hatcher_platform_block.name Cover
+thermaldynamics:cover:0, Area Light lvl1 Cover
+thermaldynamics:cover:0, Area Light lvl2 Cover
+thermaldynamics:cover:0, Area Light lvl3 Cover
+thermaldynamics:cover:0, tile.light_source_active_block.name Cover
+thermaldynamics:cover:0, tile.light_source_active_level_2_block.name Cover
+thermaldynamics:cover:0, tile.light_source_active_level_3_block.name Cover
+thermaldynamics:cover:0, Direction Light lvl1 Cover
+thermaldynamics:cover:0, Direction Light lvl2 Cover
+thermaldynamics:cover:0, Direction Light lvl3 Cover
+thermaldynamics:cover:0, tile.direction_light_active_block.name Cover
+thermaldynamics:cover:0, tile.direction_light_active_level_2_block.name Cover
+thermaldynamics:cover:0, tile.direction_light_active_level_3_block.name Cover
 thermaldynamics:cover:0, Machine Frame Cover
 thermaldynamics:cover:0, Machine Base Cover
 thermaldynamics:cover:0, Dimensional Shard Ore Cover
@@ -15973,6 +16153,9 @@ thermaldynamics:cover:0, Zyth Cover
 thermaldynamics:cover:0, Zyth Cover
 thermaldynamics:cover:0, Zyth Cover
 thermaldynamics:cover:0, Zyth Cover
+thermaldynamics:cover:0, tile.sugarblock.name Cover
+thermaldynamics:cover:0, tile.flintblock.name Cover
+thermaldynamics:cover:0, tile.charcoalblock.name Cover
 tp:watering_can, Watering Can
 tp:watering_can_upgrade, Reinforced Watering Can
 tp:stone_stick, Stone Stick
@@ -16617,3 +16800,13 @@ xtones:zyth:12, Zyth
 xtones:zyth:13, Zyth
 xtones:zyth:14, Zyth
 xtones:zyth:15, Zyth
+vt:sugarblock, tile.sugarblock.name
+vt:flintblock, tile.flintblock.name
+vt:charcoalblock, tile.charcoalblock.name
+vt:pedestal, tile.pedestal.name
+vt:binoculars, item.binoculars.name
+vt:pad, item.pad.name
+vt:dynamite, item.dynamite.name
+vt:friedegg, item.friedegg.name
+vt:slime, item.slime.name
+vt:lens, item.lens.name
