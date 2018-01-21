@@ -37,3 +37,11 @@ recipes.addShaped(<nuclearcraft:decay_generator>, [
 	[<ore:cobblestone>, <actuallyadditions:itemCrystal:0>, <ore:cobblestone>], 
 	[leadPlate, <ore:cobblestone>, leadPlate] 
 ]);
+
+# Speed Upgrade
+recipes.remove(<nuclearcraft:upgrade:0>);
+recipes.addShaped(<nuclearcraft:upgrade:0> * 2, [
+	[<ore:dyeBlue>, <actuallyadditions:itemCrystalEmpowered:0>, <ore:dyeBlue>], 
+	[<actuallyadditions:itemCrystalEmpowered:0>, <minecraft:heavy_weighted_pressure_plate>, <actuallyadditions:itemCrystalEmpowered:0>], 
+	[<ore:dyeBlue>, <actuallyadditions:itemCrystalEmpowered:0>, <ore:dyeBlue>]
+]);
