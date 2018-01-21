@@ -1441,6 +1441,1880 @@
         14
       ],
       "questID": 17
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Hardened Upgrade Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Upgrade a machine from basic to hardened"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 18
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Reinforced Upgrade Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Upgrade a machine from hardened to reinforced"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        18
+      ],
+      "questID": 19
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Signalum Upgrade Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Upgrade a machine from reinforced to signalum"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        19
+      ],
+      "questID": 20
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Resonant Upgrade Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Upgrade a machine from signalum to resonant"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        20
+      ],
+      "questID": 21
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 33
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Reinforced Conversion Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Convert a basic machine straight to reinforced"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 33
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        18
+      ],
+      "questID": 22
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 34
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Signalum Conversion Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Convert a basic machine straight to signalum"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 34
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        22
+      ],
+      "questID": 23
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 35
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Resonant Conversion Kit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Convert a machine straight from basic to resonant"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:upgrade",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 35
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        23
+      ],
+      "questID": 24
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:nether_star",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "New Quest",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 25
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:nether_star",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "New Quest",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "No Description"
+        }
+      },
+      "tasks": [],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 26
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemBasicCapacitor",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Basic Capacitor",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Speed up machines by using a basic capacitor"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemBasicCapacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 27
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemBasicCapacitor",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Double-Layer Capacitor",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Speed up machines further using a double-layer capacitor"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemBasicCapacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        27
+      ],
+      "questID": 28
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemBasicCapacitor",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Octadic Capacitor",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Speed up machines to the max with an octadic capacitor"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemBasicCapacitor",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        28
+      ],
+      "questID": 29
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:cell",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "Recv:3": 1000,
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "Level:1": 0,
+              "Send:3": 1000
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Cell (Basic)",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the basic storage of energy"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Recv:3": 1000,
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "Level:1": 0,
+                "Send:3": 1000
+              }
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 30
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:cell",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "Recv:3": 4000,
+              "RSControl:1": 0,
+              "Facing:1": 2,
+              "Creative:1": 0,
+              "Energy:3": 0,
+              "Level:1": 1,
+              "SideCache:7": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "Send:3": 4000
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Cell (Hardened)",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the next tier energy cell"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Recv:3": 4000,
+                "RSControl:1": 0,
+                "Facing:1": 2,
+                "Creative:1": 0,
+                "Energy:3": 0,
+                "Level:1": 1,
+                "SideCache:7": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "Send:3": 4000
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        30
+      ],
+      "questID": 31
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:cell",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "Recv:3": 9000,
+              "RSControl:1": 0,
+              "Facing:1": 2,
+              "Creative:1": 0,
+              "Energy:3": 0,
+              "Level:1": 2,
+              "SideCache:7": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "Send:3": 9000
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Cell (Reinforced)",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the next tier of energy cell"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Recv:3": 9000,
+                "RSControl:1": 0,
+                "Facing:1": 2,
+                "Creative:1": 0,
+                "Energy:3": 0,
+                "Level:1": 2,
+                "SideCache:7": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "Send:3": 9000
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        31
+      ],
+      "questID": 32
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:cell",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "Recv:3": 16000,
+              "RSControl:1": 0,
+              "Facing:1": 2,
+              "Creative:1": 0,
+              "Energy:3": 0,
+              "Level:1": 3,
+              "SideCache:7": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "Send:3": 16000
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Cell (Signalum)",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the next tier of energy cell"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Recv:3": 16000,
+                "RSControl:1": 0,
+                "Facing:1": 2,
+                "Creative:1": 0,
+                "Energy:3": 0,
+                "Level:1": 3,
+                "SideCache:7": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "Send:3": 16000
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        32
+      ],
+      "questID": 33
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalexpansion:cell",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0,
+            "tag": {
+              "Recv:3": 25000,
+              "RSControl:1": 0,
+              "Facing:1": 2,
+              "Creative:1": 0,
+              "Energy:3": 0,
+              "Level:1": 4,
+              "SideCache:7": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "Send:3": 25000
+            }
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Cell (Resonant)",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the next tier of energy cell"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalexpansion:cell",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Recv:3": 25000,
+                "RSControl:1": 0,
+                "Facing:1": 2,
+                "Creative:1": 0,
+                "Energy:3": 0,
+                "Level:1": 4,
+                "SideCache:7": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "Send:3": 25000
+              }
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        33
+      ],
+      "questID": 34
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:blockCapBank",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Basic Capacitor Bank",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "The first tier of energy storage"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:blockCapBank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 35
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:blockCapBank",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Capacitor Bank",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the second tier of energy storage"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:blockCapBank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        35
+      ],
+      "questID": 36
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:blockCapBank",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Vibrant Capacitor Bank",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Create the best tier capacitor bank"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:blockCapBank",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        36
+      ],
+      "questID": 37
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotInvar",
+            "Damage": 162
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Invar",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotInvar",
+              "Damage": 162
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 38
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotSteel",
+            "Damage": 160
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Steel",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotSteel",
+              "Damage": 160
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        38
+      ],
+      "questID": 39
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotBronze",
+            "Damage": 163
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Bronze",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotBronze",
+              "Damage": 163
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        39
+      ],
+      "questID": 40
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotElectrum",
+            "Damage": 161
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Electrum",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotElectrum",
+              "Damage": 161
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        40
+      ],
+      "questID": 41
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotConstantan",
+            "Damage": 164
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Constantan",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotConstantan",
+              "Damage": 164
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        41
+      ],
+      "questID": 42
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotSignalum",
+            "Damage": 165
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Signalum",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotSignalum",
+              "Damage": 165
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        42
+      ],
+      "questID": 43
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotLumium",
+            "Damage": 166
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Lumium",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotLumium",
+              "Damage": 166
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        43
+      ],
+      "questID": 44
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermalfoundation:material",
+            "Count": 1,
+            "OreDict": "ingotEnderium",
+            "Damage": 167
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Enderium",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermalfoundation:material",
+              "Count": 4,
+              "OreDict": "ingotEnderium",
+              "Damage": 167
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        44
+      ],
+      "questID": 45
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotRedstoneAlloy",
+            "Damage": 3
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Redstone Alloy",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotRedstoneAlloy",
+              "Damage": 3
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 46
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotConductiveIron",
+            "Damage": 4
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Conductive Iron",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotConductiveIron",
+              "Damage": 4
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        46
+      ],
+      "questID": 47
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotPulsatingIron",
+            "Damage": 5
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Pulsating Iron",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotPulsatingIron",
+              "Damage": 5
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        47
+      ],
+      "questID": 48
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotElectricalSteel",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Electrical Steel",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotElectricalSteel",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        48
+      ],
+      "questID": 49
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotEnergeticAlloy",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energetic Alloy",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotEnergeticAlloy",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        49
+      ],
+      "questID": 50
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotVibrantAlloy",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Vibrant Alloy",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotVibrantAlloy",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        50
+      ],
+      "questID": 51
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotDarkSteel",
+            "Damage": 6
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Dark Steel",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotDarkSteel",
+              "Damage": 6
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        51
+      ],
+      "questID": 52
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemAlloy",
+            "Count": 1,
+            "OreDict": "ingotSoularium",
+            "Damage": 7
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Soularium",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemAlloy",
+              "Count": 4,
+              "OreDict": "ingotSoularium",
+              "Damage": 7
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        52
+      ],
+      "questID": 53
     }
   ],
   "questLines": [
@@ -1593,6 +3467,224 @@
       ],
       "lineID": 2,
       "order": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Technology at its best",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Setting up your machines for better automation"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -144,
+          "y": 6,
+          "id": 18
+        },
+        {
+          "size": 24,
+          "x": -144,
+          "y": 36,
+          "id": 19
+        },
+        {
+          "size": 24,
+          "x": -144,
+          "y": 66,
+          "id": 20
+        },
+        {
+          "size": 24,
+          "x": -144,
+          "y": 96,
+          "id": 21
+        },
+        {
+          "size": 24,
+          "x": -114,
+          "y": 6,
+          "id": 22
+        },
+        {
+          "size": 24,
+          "x": -114,
+          "y": 36,
+          "id": 23
+        },
+        {
+          "size": 24,
+          "x": -114,
+          "y": 66,
+          "id": 24
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 6,
+          "id": 27
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 36,
+          "id": 28
+        },
+        {
+          "size": 24,
+          "x": -84,
+          "y": 66,
+          "id": 29
+        },
+        {
+          "size": 24,
+          "x": -54,
+          "y": 6,
+          "id": 30
+        },
+        {
+          "size": 24,
+          "x": -54,
+          "y": 36,
+          "id": 31
+        },
+        {
+          "size": 24,
+          "x": -54,
+          "y": 66,
+          "id": 32
+        },
+        {
+          "size": 24,
+          "x": -54,
+          "y": 96,
+          "id": 33
+        },
+        {
+          "size": 24,
+          "x": -54,
+          "y": 126,
+          "id": 34
+        },
+        {
+          "size": 24,
+          "x": -24,
+          "y": 6,
+          "id": 35
+        },
+        {
+          "size": 24,
+          "x": -24,
+          "y": 36,
+          "id": 36
+        },
+        {
+          "size": 24,
+          "x": -24,
+          "y": 66,
+          "id": 37
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 6,
+          "id": 38
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 36,
+          "id": 39
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 66,
+          "id": 40
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 96,
+          "id": 41
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 126,
+          "id": 42
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 156,
+          "id": 43
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 186,
+          "id": 44
+        },
+        {
+          "size": 24,
+          "x": 6,
+          "y": 216,
+          "id": 45
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 6,
+          "id": 46
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 47
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 66,
+          "id": 48
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 96,
+          "id": 49
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 126,
+          "id": 50
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 156,
+          "id": 51
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 186,
+          "id": 52
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 216,
+          "id": 53
+        }
+      ],
+      "lineID": 3,
+      "order": 3
     }
   ],
   "format": "1.0.0"
