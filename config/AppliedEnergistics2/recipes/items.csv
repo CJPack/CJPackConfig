@@ -1677,6 +1677,8 @@ appliedenergistics2:facade:0, Cable Facade - Granite Bricks
 appliedenergistics2:facade:0, Cable Facade - Midori Block
 appliedenergistics2:facade:0, Cable Facade - Midori Pillar
 appliedenergistics2:facade:0, Cable Facade - Vertical Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Marble
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -1684,8 +1686,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Biotite
 appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Neutronium Block
@@ -4166,6 +4166,41 @@ appliedenergistics2:facade:0, Cable Facade - Mystical Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Glowstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Witherproof Block
 appliedenergistics2:facade:0, Cable Facade - Witherproof Glass
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Thorium Ore
+appliedenergistics2:facade:0, Cable Facade - Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Boron Ore
+appliedenergistics2:facade:0, Cable Facade - Lithium Ore
+appliedenergistics2:facade:0, Cable Facade - Magnesium Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Block
+appliedenergistics2:facade:0, Cable Facade - Tin Block
+appliedenergistics2:facade:0, Cable Facade - Lead Block
+appliedenergistics2:facade:0, Cable Facade - Thorium Block
+appliedenergistics2:facade:0, Cable Facade - Uranium Block
+appliedenergistics2:facade:0, Cable Facade - Boron Block
+appliedenergistics2:facade:0, Cable Facade - Lithium Block
+appliedenergistics2:facade:0, Cable Facade - Magnesium Block
+appliedenergistics2:facade:0, Cable Facade - Graphite Block
+appliedenergistics2:facade:0, Cable Facade - Beryllium Block
+appliedenergistics2:facade:0, Cable Facade - Zirconium Block
+appliedenergistics2:facade:0, Cable Facade - Reactor Casing
+appliedenergistics2:facade:0, Cable Facade - Blast Block
+appliedenergistics2:facade:0, Cable Facade - Empty Cooler
+appliedenergistics2:facade:0, Cable Facade - Water Cooler
+appliedenergistics2:facade:0, Cable Facade - Redstone Cooler
+appliedenergistics2:facade:0, Cable Facade - Quartz Cooler
+appliedenergistics2:facade:0, Cable Facade - Gold Cooler
+appliedenergistics2:facade:0, Cable Facade - Glowstone Cooler
+appliedenergistics2:facade:0, Cable Facade - Lapis Cooler
+appliedenergistics2:facade:0, Cable Facade - Diamond Cooler
+appliedenergistics2:facade:0, Cable Facade - Liquid Helium Cooler
+appliedenergistics2:facade:0, Cable Facade - Enderium Cooler
+appliedenergistics2:facade:0, Cable Facade - Cryotheum Cooler
+appliedenergistics2:facade:0, Cable Facade - Depleted Thorium Block
+appliedenergistics2:facade:0, Cable Facade - Depleted Uranium Block
+appliedenergistics2:facade:0, Cable Facade - Fusion Connector
 appliedenergistics2:facade:0, Cable Facade - Elevator
 appliedenergistics2:facade:0, Cable Facade - Sponge
 appliedenergistics2:facade:0, Cable Facade - Carbon Block
@@ -4223,6 +4258,8 @@ appliedenergistics2:facade:0, Cable Facade - Direction Light lvl3
 appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_block.name
 appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_level_2_block.name
 appliedenergistics2:facade:0, Cable Facade - tile.direction_light_active_level_3_block.name
+appliedenergistics2:facade:0, Cable Facade - Fluxed Electrum Block
+appliedenergistics2:facade:0, Cable Facade - Flux Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Machine Base
 appliedenergistics2:facade:0, Cable Facade - Dimensional Shard Ore
@@ -4980,26 +5017,6 @@ aroma1997sdimension:portalFrame, Portal Frame
 aroma1997sdimension:stickyOre, Sticky Ore
 aroma1997sdimension:portalIgniter, Mining Multitool
 aroma1997sdimension:dimensionChanger, DimensionChanger
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
 quark:reed_block, tile.reed_block.name
 quark:reed_block_stairs, tile.reed_block_stairs.name
 quark:reed_block_slab:0, Sugar Cane Slab
@@ -5178,60 +5195,7 @@ quark:vertical_planks:2, Vertical Birch Wood Planks
 quark:vertical_planks:3, Vertical Jungle Wood Planks
 quark:vertical_planks:4, Vertical Acacia Wood Planks
 quark:vertical_planks:5, Vertical Dark Oak Wood Planks
-quark:pirate_hat, item.pirate_hat.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:soul_bead, item.soul_bead.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:ancient_tome, item.ancient_tome.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
+quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -5310,6 +5274,79 @@ quark:leaf_carpet:3, Jungle Leaf Carpet
 quark:leaf_carpet:4, Acacia Leaf Carpet
 quark:leaf_carpet:5, Dark Oak Leaf Carpet
 quark:charcoal_block, Charcoal Block
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:pirate_hat, item.pirate_hat.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:marble:0, Marble
+quark:marble:1, Polished Marble
+quark:stone_marble_slab:0, Marble Slab
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, Limestone
+quark:limestone:1, Polished Limestone
+quark:stone_limestone_slab:0, Limestone Slab
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:soul_bead, item.soul_bead.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:ancient_tome, item.ancient_tome.name
+quark:basalt:0, Basalt
+quark:basalt:1, Polished Basalt
+quark:stone_basalt_slab:0, Basalt Slab
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
 avaritia:resource:0, Diamond Lattice
 avaritia:resource:1, Crystal Matrix Ingot
 avaritia:resource:2, Pile of Neutrons
@@ -5352,7 +5389,7 @@ avaritia:block_resource:1, Infinity Block
 avaritia:block_resource:2, Crystal Matrix
 avaritia:neutron_collector, Neutron Collector
 avaritia:neutronium_compressor, Neutronium Compressor
-baubles:Ring:0, item.Ring.0.name
+baubles:Ring:0, Miner's Ring
 betterbuilderswands:wandStone, Stone Wand
 betterbuilderswands:wandIron, Iron Wand
 betterbuilderswands:wandDiamond, Diamond Wand
@@ -9238,6 +9275,36 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -11877,6 +11944,511 @@ mysticalagriculture:supremium_boots_wither, §cSupremium Boots
 mysticalagriculture:supremium_boots_antivenom, §cSupremium Boots
 mysticalagriculture:supremium_boots_fire, §cSupremium Boots
 mysticalagriculture:supremium_boots_resistance, §cSupremium Boots
+nuclearcraft:ore:0, Copper Ore
+nuclearcraft:ore:1, Tin Ore
+nuclearcraft:ore:2, Lead Ore
+nuclearcraft:ore:3, Thorium Ore
+nuclearcraft:ore:4, Uranium Ore
+nuclearcraft:ore:5, Boron Ore
+nuclearcraft:ore:6, Lithium Ore
+nuclearcraft:ore:7, Magnesium Ore
+nuclearcraft:ingot_block:0, Copper Block
+nuclearcraft:ingot_block:1, Tin Block
+nuclearcraft:ingot_block:2, Lead Block
+nuclearcraft:ingot_block:3, Thorium Block
+nuclearcraft:ingot_block:4, Uranium Block
+nuclearcraft:ingot_block:5, Boron Block
+nuclearcraft:ingot_block:6, Lithium Block
+nuclearcraft:ingot_block:7, Magnesium Block
+nuclearcraft:ingot_block:8, Graphite Block
+nuclearcraft:ingot_block:9, Beryllium Block
+nuclearcraft:ingot_block:10, Zirconium Block
+nuclearcraft:fission_block:0, Reactor Casing
+nuclearcraft:fission_block:1, Blast Block
+nuclearcraft:reactor_casing_transparent, Transparent Reactor Casing
+nuclearcraft:cell_block, Reactor Cell
+nuclearcraft:cooler:0, Empty Cooler
+nuclearcraft:cooler:1, Water Cooler
+nuclearcraft:cooler:2, Redstone Cooler
+nuclearcraft:cooler:3, Quartz Cooler
+nuclearcraft:cooler:4, Gold Cooler
+nuclearcraft:cooler:5, Glowstone Cooler
+nuclearcraft:cooler:6, Lapis Cooler
+nuclearcraft:cooler:7, Diamond Cooler
+nuclearcraft:cooler:8, Liquid Helium Cooler
+nuclearcraft:cooler:9, Enderium Cooler
+nuclearcraft:cooler:10, Cryotheum Cooler
+nuclearcraft:reactor_door, Reactor Door
+nuclearcraft:reactor_trapdoor, Reactor Trapdoor
+nuclearcraft:block_depleted_thorium, Depleted Thorium Block
+nuclearcraft:block_depleted_uranium, Depleted Uranium Block
+nuclearcraft:block_ice, Supercold Ice
+nuclearcraft:nuclear_furnace_idle, Nuclear Furnace
+nuclearcraft:nuclear_furnace_active, Nuclear Furnace
+nuclearcraft:manufactory_idle, Manufactory
+nuclearcraft:manufactory_active, Manufactory
+nuclearcraft:isotope_separator_idle, Isotope Separator
+nuclearcraft:isotope_separator_active, Isotope Separator
+nuclearcraft:decay_hastener_idle, Decay Hastener
+nuclearcraft:decay_hastener_active, Decay Hastener
+nuclearcraft:fuel_reprocessor_idle, Fuel Reprocessor
+nuclearcraft:fuel_reprocessor_active, Fuel Reprocessor
+nuclearcraft:alloy_furnace_idle, Alloy Furnace
+nuclearcraft:alloy_furnace_active, Alloy Furnace
+nuclearcraft:infuser_idle, Fluid Infuser
+nuclearcraft:infuser_active, Fluid Infuser
+nuclearcraft:melter_idle, Melter
+nuclearcraft:melter_active, Melter
+nuclearcraft:supercooler_idle, Supercooler
+nuclearcraft:supercooler_active, Supercooler
+nuclearcraft:electrolyser_idle, Electrolyser
+nuclearcraft:electrolyser_active, Electrolyser
+nuclearcraft:irradiator_idle, Neutron Irradiator
+nuclearcraft:irradiator_active, Neutron Irradiator
+nuclearcraft:ingot_former_idle, Ingot Former
+nuclearcraft:ingot_former_active, Ingot Former
+nuclearcraft:pressurizer_idle, Pressurizer
+nuclearcraft:pressurizer_active, Pressurizer
+nuclearcraft:chemical_reactor_idle, Chemical Reactor
+nuclearcraft:chemical_reactor_active, Chemical Reactor
+nuclearcraft:salt_mixer_idle, Salt Mixer
+nuclearcraft:salt_mixer_active, Salt Mixer
+nuclearcraft:crystallizer_idle, Crystallizer
+nuclearcraft:crystallizer_active, Crystallizer
+nuclearcraft:dissolver_idle, Dissolver
+nuclearcraft:dissolver_active, Dissolver
+nuclearcraft:machine_interface, Machine Interface
+nuclearcraft:fission_controller_idle, Fission Controller
+nuclearcraft:fission_controller_active, Fission Controller
+nuclearcraft:fission_port, Fission Reactor Port
+nuclearcraft:fusion_core, Fusion Core
+nuclearcraft:fusion_dummy_side, Fusion Core
+nuclearcraft:fusion_dummy_top, Fusion Core
+nuclearcraft:fusion_connector, Fusion Connector
+nuclearcraft:rtg_uranium, Uranium RTG
+nuclearcraft:rtg_plutonium, Plutonium RTG
+nuclearcraft:rtg_americium, Americium RTG
+nuclearcraft:rtg_californium, Californium RTG
+nuclearcraft:solar_panel_basic, Basic Solar Panel
+nuclearcraft:decay_generator, Decay Generator
+nuclearcraft:voltaic_pile_basic, Basic Voltaic Pile (WIP)
+nuclearcraft:lithium_ion_battery_basic, Basic Lithium Ion Battery (WIP)
+nuclearcraft:buffer, Buffer
+nuclearcraft:active_cooler, Active Fluid Cooler
+nuclearcraft:bin, Universal Bin
+nuclearcraft:fusion_electromagnet_idle, Fusion Electromagnet
+nuclearcraft:fusion_electromagnet_active, Fusion Electromagnet
+nuclearcraft:fusion_electromagnet_transparent_idle, Transparent Fusion Electromagnet
+nuclearcraft:fusion_electromagnet_transparent_active, Transparent Fusion Electromagnet
+nuclearcraft:accelerator_electromagnet_idle, Superconducting Electromagnet
+nuclearcraft:accelerator_electromagnet_active, Superconducting Electromagnet
+nuclearcraft:electromagnet_supercooler_idle, Superconducting Supercooler
+nuclearcraft:electromagnet_supercooler_active, Superconducting Supercooler
+nuclearcraft:helium_collector, Helium Collector
+nuclearcraft:cobblestone_generator, Cobblestone Generator
+nuclearcraft:water_source, Infinite Water Source
+nuclearcraft:nitrogen_collector, Nitrogen Collector
+nuclearcraft:glowing_mushroom, Glowing Mushroom
+nuclearcraft:fluid_oxygen, Oxygen
+nuclearcraft:fluid_hydrogen, Hydrogen
+nuclearcraft:fluid_deuterium, Deuterium
+nuclearcraft:fluid_tritium, Tritium
+nuclearcraft:fluid_helium3, Helium-3
+nuclearcraft:fluid_helium, Helium
+nuclearcraft:fluid_steam, Steam
+nuclearcraft:fluid_liquidhelium, Liquid Helium
+nuclearcraft:fluid_plasma, Plasma
+nuclearcraft:fluid_lithium6, Molten Lithium-6
+nuclearcraft:fluid_lithium7, Molten Lithium-7
+nuclearcraft:fluid_boron10, Molten Boron-10
+nuclearcraft:fluid_boron11, Molten Boron-11
+nuclearcraft:fluid_neutron, Neutron Fluid
+nuclearcraft:fluid_fluorine, Fluorine
+nuclearcraft:fluid_nitrogen, Nitrogen
+nuclearcraft:fluid_ammonia, Ammonia
+nuclearcraft:fluid_ethanol, Ethanol
+nuclearcraft:fluid_boric_acid, Boric Acid
+nuclearcraft:fluid_diborane, Diborane
+nuclearcraft:fluid_radaway, RadAway Fluid
+nuclearcraft:fluid_beryllium, Molten Beryllium
+nuclearcraft:fluid_lif, Molten Lithium Fluoride
+nuclearcraft:fluid_bef2, Molten Beryllium Fluoride
+nuclearcraft:fluid_flibe, Molten FLiBe Salt Mixture
+nuclearcraft:fluid_boron_nitride_solution, Boron Nitride Solution
+nuclearcraft:fluid_coolant, Coolant
+nuclearcraft:fluid_sulfur, Molten Sulfur
+nuclearcraft:fluid_sulfur_dioxide, Sulfur Dioxide
+nuclearcraft:fluid_sulfur_trioxide, Sulfur Trioxide
+nuclearcraft:fluid_sulfuric_acid, Sulfuric Acid
+nuclearcraft:fluid_fluorite_water, Fluorite Water
+nuclearcraft:fluid_calcium_sulfate_solution, Calcium Sulfate Solution
+nuclearcraft:fluid_hydrofluoric_acid, Hydrofluoric Acid
+nuclearcraft:fluid_oxygen_difluoride, Oxygen Difluoride
+nuclearcraft:ingot:0, Copper Ingot
+nuclearcraft:ingot:1, Tin Ingot
+nuclearcraft:ingot:2, Lead Ingot
+nuclearcraft:ingot:3, Thorium Ingot
+nuclearcraft:ingot:4, Uranium Ingot
+nuclearcraft:ingot:5, Boron Ingot
+nuclearcraft:ingot:6, Lithium Ingot
+nuclearcraft:ingot:7, Magnesium Ingot
+nuclearcraft:ingot:8, Graphite Ingot
+nuclearcraft:ingot:9, Beryllium Ingot
+nuclearcraft:ingot:10, Zirconium Ingot
+nuclearcraft:ingot_oxide:0, Thorium Oxide Ingot
+nuclearcraft:ingot_oxide:1, Uranium Oxide Ingot
+nuclearcraft:ingot_oxide:2, Manganese Oxide Ingot
+nuclearcraft:ingot_oxide:3, Manganese Dioxide Ingot
+nuclearcraft:dust:0, Copper Dust
+nuclearcraft:dust:1, Tin Dust
+nuclearcraft:dust:2, Lead Dust
+nuclearcraft:dust:3, Thorium Dust
+nuclearcraft:dust:4, Uranium Dust
+nuclearcraft:dust:5, Boron Dust
+nuclearcraft:dust:6, Lithium Dust
+nuclearcraft:dust:7, Magnesium Dust
+nuclearcraft:dust:8, Graphite Dust
+nuclearcraft:dust:9, Beryllium Dust
+nuclearcraft:dust:10, Zirconium Dust
+nuclearcraft:dust_oxide:0, Thorium Oxide Dust
+nuclearcraft:dust_oxide:1, Uranium Oxide Dust
+nuclearcraft:dust_oxide:2, Manganese Oxide Dust
+nuclearcraft:dust_oxide:3, Manganese Dioxide Dust
+nuclearcraft:gem:0, Rhodochrosite
+nuclearcraft:gem:1, Cubic Boron Nitride
+nuclearcraft:gem:2, Fluorite
+nuclearcraft:gem_dust:0, Crushed Diamond
+nuclearcraft:gem_dust:1, Crushed Rhodochrosite
+nuclearcraft:gem_dust:2, Crushed Quartz
+nuclearcraft:gem_dust:3, Crushed Obsidian
+nuclearcraft:gem_dust:4, Amorphous Boron Nitride
+nuclearcraft:gem_dust:5, Crushed Fluorite
+nuclearcraft:gem_dust:6, Sulfur
+nuclearcraft:alloy:0, Bronze Alloy
+nuclearcraft:alloy:1, Tough Alloy
+nuclearcraft:alloy:2, Hard Carbon Alloy
+nuclearcraft:alloy:3, Magnesium Diboride Alloy
+nuclearcraft:alloy:4, Lithium Manganese Dioxide Alloy
+nuclearcraft:alloy:5, Steel Alloy
+nuclearcraft:alloy:6, Ferroboron Alloy
+nuclearcraft:compound:0, Calcium Sulfate
+nuclearcraft:compound:1, Crystal Binder
+nuclearcraft:part:0, Basic Plating
+nuclearcraft:part:1, Advanced Plating
+nuclearcraft:part:2, DU Plating
+nuclearcraft:part:3, Elite Plating
+nuclearcraft:part:4, Copper Solenoid
+nuclearcraft:part:5, Magnesium Diboride Solenoid
+nuclearcraft:part:6, Bioplastic
+nuclearcraft:upgrade:0, Speed Upgrade
+nuclearcraft:fuel_rod_empty, Empty Fuel Rod
+nuclearcraft:tiny_dust_lead, Tiny Pile of Lead Dust
+nuclearcraft:reactor_door_item, Reactor Door
+nuclearcraft:thorium:0, Thorium-230
+nuclearcraft:thorium:1, Thorium-230 Oxide
+nuclearcraft:thorium:2, Tiny Clump of Thorium-230
+nuclearcraft:thorium:3, Tiny Clump of Thorium-230 Oxide
+nuclearcraft:thorium:4, Thorium-232
+nuclearcraft:thorium:5, Thorium-232 Oxide
+nuclearcraft:thorium:6, Tiny Clump of Thorium-232
+nuclearcraft:thorium:7, Tiny Clump of Thorium-232 Oxide
+nuclearcraft:uranium:0, Uranium-233
+nuclearcraft:uranium:1, Uranium-233 Oxide
+nuclearcraft:uranium:2, Tiny Clump of Uranium-233
+nuclearcraft:uranium:3, Tiny Clump of Uranium-233 Oxide
+nuclearcraft:uranium:4, Uranium-235
+nuclearcraft:uranium:5, Uranium-235 Oxide
+nuclearcraft:uranium:6, Tiny Clump of Uranium-235
+nuclearcraft:uranium:7, Tiny Clump of Uranium-235 Oxide
+nuclearcraft:uranium:8, Uranium-238
+nuclearcraft:uranium:9, Uranium-238 Oxide
+nuclearcraft:uranium:10, Tiny Clump of Uranium-238
+nuclearcraft:uranium:11, Tiny Clump of Uranium-238 Oxide
+nuclearcraft:neptunium:0, Neptunium-236
+nuclearcraft:neptunium:1, Neptunium-236 Oxide
+nuclearcraft:neptunium:2, Tiny Clump of Neptunium-236
+nuclearcraft:neptunium:3, Tiny Clump of Neptunium-236 Oxide
+nuclearcraft:neptunium:4, Neptunium-237
+nuclearcraft:neptunium:5, Neptunium-237 Oxide
+nuclearcraft:neptunium:6, Tiny Clump of Neptunium-237
+nuclearcraft:neptunium:7, Tiny Clump of Neptunium-237 Oxide
+nuclearcraft:plutonium:0, Plutonium-238
+nuclearcraft:plutonium:1, Plutonium-238 Oxide
+nuclearcraft:plutonium:2, Tiny Clump of Plutonium-238
+nuclearcraft:plutonium:3, Tiny Clump of Plutonium-238 Oxide
+nuclearcraft:plutonium:4, Plutonium-239
+nuclearcraft:plutonium:5, Plutonium-239 Oxide
+nuclearcraft:plutonium:6, Tiny Clump of Plutonium-239
+nuclearcraft:plutonium:7, Tiny Clump of Plutonium-239 Oxide
+nuclearcraft:plutonium:8, Plutonium-241
+nuclearcraft:plutonium:9, Plutonium-241 Oxide
+nuclearcraft:plutonium:10, Tiny Clump of Plutonium-241
+nuclearcraft:plutonium:11, Tiny Clump of Plutonium-241 Oxide
+nuclearcraft:plutonium:12, Plutonium-242
+nuclearcraft:plutonium:13, Plutonium-242 Oxide
+nuclearcraft:plutonium:14, Tiny Clump of Plutonium-242
+nuclearcraft:plutonium:15, Tiny Clump of Plutonium-242 Oxide
+nuclearcraft:americium:0, Americium-241
+nuclearcraft:americium:1, Americium-241 Oxide
+nuclearcraft:americium:2, Tiny Clump of Americium-241
+nuclearcraft:americium:3, Tiny Clump of Americium-241 Oxide
+nuclearcraft:americium:4, Americium-242
+nuclearcraft:americium:5, Americium-242 Oxide
+nuclearcraft:americium:6, Tiny Clump of Americium-242
+nuclearcraft:americium:7, Tiny Clump of Americium-242 Oxide
+nuclearcraft:americium:8, Americium-243
+nuclearcraft:americium:9, Americium-243 Oxide
+nuclearcraft:americium:10, Tiny Clump of Americium-243
+nuclearcraft:americium:11, Tiny Clump of Americium-243 Oxide
+nuclearcraft:curium:0, Curium-243
+nuclearcraft:curium:1, Curium-243 Oxide
+nuclearcraft:curium:2, Tiny Clump of Curium-243
+nuclearcraft:curium:3, Tiny Clump of Curium-243 Oxide
+nuclearcraft:curium:4, Curium-245
+nuclearcraft:curium:5, Curium-245 Oxide
+nuclearcraft:curium:6, Tiny Clump of Curium-245
+nuclearcraft:curium:7, Tiny Clump of Curium-245 Oxide
+nuclearcraft:curium:8, Curium-246
+nuclearcraft:curium:9, Curium-246 Oxide
+nuclearcraft:curium:10, Tiny Clump of Curium-246
+nuclearcraft:curium:11, Tiny Clump of Curium-246 Oxide
+nuclearcraft:curium:12, Curium-247
+nuclearcraft:curium:13, Curium-247 Oxide
+nuclearcraft:curium:14, Tiny Clump of Curium-247
+nuclearcraft:curium:15, Tiny Clump of Curium-247 Oxide
+nuclearcraft:berkelium:0, Berkelium-247
+nuclearcraft:berkelium:1, Berkelium-247 Oxide
+nuclearcraft:berkelium:2, Tiny Clump of Berkelium-247
+nuclearcraft:berkelium:3, Tiny Clump of Berkelium-247 Oxide
+nuclearcraft:berkelium:4, Berkelium-248
+nuclearcraft:berkelium:5, Berkelium-248 Oxide
+nuclearcraft:berkelium:6, Tiny Clump of Berkelium-248
+nuclearcraft:berkelium:7, Tiny Clump of Berkelium-248 Oxide
+nuclearcraft:californium:0, Californium-249
+nuclearcraft:californium:1, Californium-249 Oxide
+nuclearcraft:californium:2, Tiny Clump of Californium-249
+nuclearcraft:californium:3, Tiny Clump of Californium-249 Oxide
+nuclearcraft:californium:4, Californium-250
+nuclearcraft:californium:5, Californium-250 Oxide
+nuclearcraft:californium:6, Tiny Clump of Californium-250
+nuclearcraft:californium:7, Tiny Clump of Californium-250 Oxide
+nuclearcraft:californium:8, Californium-251
+nuclearcraft:californium:9, Californium-251 Oxide
+nuclearcraft:californium:10, Tiny Clump of Californium-251
+nuclearcraft:californium:11, Tiny Clump of Californium-251 Oxide
+nuclearcraft:californium:12, Californium-252
+nuclearcraft:californium:13, Californium-252 Oxide
+nuclearcraft:californium:14, Tiny Clump of Californium-252
+nuclearcraft:californium:15, Tiny Clump of Californium-252 Oxide
+nuclearcraft:fuel_thorium:0, TBU Fuel
+nuclearcraft:fuel_thorium:1, TBU Oxide Fuel
+nuclearcraft:fuel_uranium:0, LEU-233 Fuel
+nuclearcraft:fuel_uranium:1, LEU-233 Oxide Fuel
+nuclearcraft:fuel_uranium:2, HEU-233 Fuel
+nuclearcraft:fuel_uranium:3, HEU-233 Oxide Fuel
+nuclearcraft:fuel_uranium:4, LEU-235 Fuel
+nuclearcraft:fuel_uranium:5, LEU-235 Oxide Fuel
+nuclearcraft:fuel_uranium:6, HEU-235 Fuel
+nuclearcraft:fuel_uranium:7, HEU-235 Oxide Fuel
+nuclearcraft:fuel_neptunium:0, LEN-236 Fuel
+nuclearcraft:fuel_neptunium:1, LEN-236 Oxide Fuel
+nuclearcraft:fuel_neptunium:2, HEN-236 Fuel
+nuclearcraft:fuel_neptunium:3, HEN-236 Oxide Fuel
+nuclearcraft:fuel_plutonium:0, LEP-239 Fuel
+nuclearcraft:fuel_plutonium:1, LEP-239 Oxide Fuel
+nuclearcraft:fuel_plutonium:2, HEP-239 Fuel
+nuclearcraft:fuel_plutonium:3, HEP-239 Oxide Fuel
+nuclearcraft:fuel_plutonium:4, LEP-241 Fuel
+nuclearcraft:fuel_plutonium:5, LEP-241 Oxide Fuel
+nuclearcraft:fuel_plutonium:6, HEP-241 Fuel
+nuclearcraft:fuel_plutonium:7, HEP-241 Oxide Fuel
+nuclearcraft:fuel_mixed_oxide:0, MOX-239 Fuel
+nuclearcraft:fuel_mixed_oxide:1, MOX-241 Fuel
+nuclearcraft:fuel_americium:0, LEA-242 Fuel
+nuclearcraft:fuel_americium:1, LEA-242 Oxide Fuel
+nuclearcraft:fuel_americium:2, HEA-242 Fuel
+nuclearcraft:fuel_americium:3, HEA-242 Oxide Fuel
+nuclearcraft:fuel_curium:0, LECm-243 Fuel
+nuclearcraft:fuel_curium:1, LECm-243 Oxide Fuel
+nuclearcraft:fuel_curium:2, HECm-243 Fuel
+nuclearcraft:fuel_curium:3, HECm-243 Oxide Fuel
+nuclearcraft:fuel_curium:4, LECm-245 Fuel
+nuclearcraft:fuel_curium:5, LECm-245 Oxide Fuel
+nuclearcraft:fuel_curium:6, HECm-245 Fuel
+nuclearcraft:fuel_curium:7, HECm-245 Oxide Fuel
+nuclearcraft:fuel_curium:8, LECm-247 Fuel
+nuclearcraft:fuel_curium:9, LECm-247 Oxide Fuel
+nuclearcraft:fuel_curium:10, HECm-247 Fuel
+nuclearcraft:fuel_curium:11, HECm-247 Oxide Fuel
+nuclearcraft:fuel_berkelium:0, LEB-248 Fuel
+nuclearcraft:fuel_berkelium:1, LEB-248 Oxide Fuel
+nuclearcraft:fuel_berkelium:2, HEB-248 Fuel
+nuclearcraft:fuel_berkelium:3, HEB-248 Oxide Fuel
+nuclearcraft:fuel_californium:0, LECf-249 Fuel
+nuclearcraft:fuel_californium:1, LECf-249 Oxide Fuel
+nuclearcraft:fuel_californium:2, HECf-249 Fuel
+nuclearcraft:fuel_californium:3, HECf-249 Oxide Fuel
+nuclearcraft:fuel_californium:4, LECf-251 Fuel
+nuclearcraft:fuel_californium:5, LECf-251 Oxide Fuel
+nuclearcraft:fuel_californium:6, HECf-251 Fuel
+nuclearcraft:fuel_californium:7, HECf-251 Oxide Fuel
+nuclearcraft:fuel_rod_thorium:0, TBU Fuel Rod
+nuclearcraft:fuel_rod_thorium:1, TBU Oxide Fuel Rod
+nuclearcraft:fuel_rod_uranium:0, LEU-233 Fuel Rod
+nuclearcraft:fuel_rod_uranium:1, LEU-233 Oxide Fuel Rod
+nuclearcraft:fuel_rod_uranium:2, HEU-233 Fuel Rod
+nuclearcraft:fuel_rod_uranium:3, HEU-233 Oxide Fuel Rod
+nuclearcraft:fuel_rod_uranium:4, LEU-235 Fuel Rod
+nuclearcraft:fuel_rod_uranium:5, LEU-235 Oxide Fuel Rod
+nuclearcraft:fuel_rod_uranium:6, HEU-235 Fuel Rod
+nuclearcraft:fuel_rod_uranium:7, HEU-235 Oxide Fuel Rod
+nuclearcraft:fuel_rod_neptunium:0, LEN-236 Fuel Rod
+nuclearcraft:fuel_rod_neptunium:1, LEN-236 Oxide Fuel Rod
+nuclearcraft:fuel_rod_neptunium:2, HEN-236 Fuel Rod
+nuclearcraft:fuel_rod_neptunium:3, HEN-236 Oxide Fuel Rod
+nuclearcraft:fuel_rod_plutonium:0, LEP-239 Fuel Rod
+nuclearcraft:fuel_rod_plutonium:1, LEP-239 Oxide Fuel Rod
+nuclearcraft:fuel_rod_plutonium:2, HEP-239 Fuel Rod
+nuclearcraft:fuel_rod_plutonium:3, HEP-239 Oxide Fuel Rod
+nuclearcraft:fuel_rod_plutonium:4, LEP-241 Fuel Rod
+nuclearcraft:fuel_rod_plutonium:5, LEP-241 Oxide Fuel Rod
+nuclearcraft:fuel_rod_plutonium:6, HEP-241 Fuel Rod
+nuclearcraft:fuel_rod_plutonium:7, HEP-241 Oxide Fuel Rod
+nuclearcraft:fuel_rod_mixed_oxide:0, MOX-239 Fuel Rod
+nuclearcraft:fuel_rod_mixed_oxide:1, MOX-241 Fuel Rod
+nuclearcraft:fuel_rod_americium:0, LEA-242 Fuel Rod
+nuclearcraft:fuel_rod_americium:1, LEA-242 Oxide Fuel Rod
+nuclearcraft:fuel_rod_americium:2, HEA-242 Fuel Rod
+nuclearcraft:fuel_rod_americium:3, HEA-242 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:0, LECm-243 Fuel Rod
+nuclearcraft:fuel_rod_curium:1, LECm-243 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:2, HECm-243 Fuel Rod
+nuclearcraft:fuel_rod_curium:3, HECm-243 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:4, LECm-245 Fuel Rod
+nuclearcraft:fuel_rod_curium:5, LECm-245 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:6, HECm-245 Fuel Rod
+nuclearcraft:fuel_rod_curium:7, HECm-245 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:8, LECm-247 Fuel Rod
+nuclearcraft:fuel_rod_curium:9, LECm-247 Oxide Fuel Rod
+nuclearcraft:fuel_rod_curium:10, HECm-247 Fuel Rod
+nuclearcraft:fuel_rod_curium:11, HECm-247 Oxide Fuel Rod
+nuclearcraft:fuel_rod_berkelium:0, LEB-248 Fuel Rod
+nuclearcraft:fuel_rod_berkelium:1, LEB-248 Oxide Fuel Rod
+nuclearcraft:fuel_rod_berkelium:2, HEB-248 Fuel Rod
+nuclearcraft:fuel_rod_berkelium:3, HEB-248 Oxide Fuel Rod
+nuclearcraft:fuel_rod_californium:0, LECf-249 Fuel Rod
+nuclearcraft:fuel_rod_californium:1, LECf-249 Oxide Fuel Rod
+nuclearcraft:fuel_rod_californium:2, HECf-249 Fuel Rod
+nuclearcraft:fuel_rod_californium:3, HECf-249 Oxide Fuel Rod
+nuclearcraft:fuel_rod_californium:4, LECf-251 Fuel Rod
+nuclearcraft:fuel_rod_californium:5, LECf-251 Oxide Fuel Rod
+nuclearcraft:fuel_rod_californium:6, HECf-251 Fuel Rod
+nuclearcraft:fuel_rod_californium:7, HECf-251 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_thorium:0, Depleted TBU Fuel Rod
+nuclearcraft:depleted_fuel_rod_thorium:1, Depleted TBU Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:0, Depleted LEU-233 Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:1, Depleted LEU-233 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:2, Depleted HEU-233 Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:3, Depleted HEU-233 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:4, Depleted LEU-235 Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:5, Depleted LEU-235 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:6, Depleted HEU-235 Fuel Rod
+nuclearcraft:depleted_fuel_rod_uranium:7, Depleted HEU-235 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_neptunium:0, Depleted LEN-236 Fuel Rod
+nuclearcraft:depleted_fuel_rod_neptunium:1, Depleted LEN-236 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_neptunium:2, Depleted HEN-236 Fuel Rod
+nuclearcraft:depleted_fuel_rod_neptunium:3, Depleted HEN-236 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:0, Depleted LEP-239 Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:1, Depleted LEP-239 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:2, Depleted HEP-239 Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:3, Depleted HEP-239 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:4, Depleted LEP-241 Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:5, Depleted LEP-241 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:6, Depleted HEP-241 Fuel Rod
+nuclearcraft:depleted_fuel_rod_plutonium:7, Depleted HEP-241 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_mixed_oxide:0, Depleted MOX-239 Fuel Rod
+nuclearcraft:depleted_fuel_rod_mixed_oxide:1, Depleted MOX-241 Fuel Rod
+nuclearcraft:depleted_fuel_rod_americium:0, Depleted LEA-242 Fuel Rod
+nuclearcraft:depleted_fuel_rod_americium:1, Depleted LEA-242 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_americium:2, Depleted HEA-242 Fuel Rod
+nuclearcraft:depleted_fuel_rod_americium:3, Depleted HEA-242 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:0, Depleted LECm-243 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:1, Depleted LECm-243 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:2, Depleted HECm-243 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:3, Depleted HECm-243 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:4, Depleted LECm-245 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:5, Depleted LECm-245 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:6, Depleted HECm-245 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:7, Depleted HECm-245 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:8, Depleted LECm-247 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:9, Depleted LECm-247 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:10, Depleted HECm-247 Fuel Rod
+nuclearcraft:depleted_fuel_rod_curium:11, Depleted HECm-247 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_berkelium:0, Depleted LEB-248 Fuel Rod
+nuclearcraft:depleted_fuel_rod_berkelium:1, Depleted LEB-248 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_berkelium:2, Depleted HEB-248 Fuel Rod
+nuclearcraft:depleted_fuel_rod_berkelium:3, Depleted HEB-248 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:0, Depleted LECf-249 Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:1, Depleted LECf-249 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:2, Depleted HECf-249 Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:3, Depleted HECf-249 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:4, Depleted LECf-251 Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:5, Depleted LECf-251 Oxide Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:6, Depleted HECf-251 Fuel Rod
+nuclearcraft:depleted_fuel_rod_californium:7, Depleted HECf-251 Oxide Fuel Rod
+nuclearcraft:boron:0, Boron-10
+nuclearcraft:boron:1, Tiny Clump of Boron-10
+nuclearcraft:boron:2, Boron-11
+nuclearcraft:boron:3, Tiny Clump of Boron-11
+nuclearcraft:lithium:0, Lithium-6
+nuclearcraft:lithium:1, Tiny Clump of Lithium-6
+nuclearcraft:lithium:2, Lithium-7
+nuclearcraft:lithium:3, Tiny Clump of Lithium-7
+nuclearcraft:portable_ender_chest, Portable Ender Chest
+nuclearcraft:dominos, Domino's Special
+nuclearcraft:record_wanderer, Music Disc
+nuclearcraft:record_end_of_the_world, Music Disc
+nuclearcraft:record_money_for_nothing, Music Disc
+nuclearcraft:sword_boron, Boron Sword
+nuclearcraft:pickaxe_boron, Boron Pickaxe
+nuclearcraft:shovel_boron, Boron Shovel
+nuclearcraft:axe_boron, Boron Axe
+nuclearcraft:hoe_boron, Boron Hoe
+nuclearcraft:spaxelhoe_boron, Boron Spaxelhoe
+nuclearcraft:sword_tough, Tough Alloy Sword
+nuclearcraft:pickaxe_tough, Tough Alloy Pickaxe
+nuclearcraft:shovel_tough, Tough Alloy Shovel
+nuclearcraft:axe_tough, Tough Alloy Axe
+nuclearcraft:hoe_tough, Tough Alloy Hoe
+nuclearcraft:spaxelhoe_tough, Tough Alloy Spaxelhoe
+nuclearcraft:sword_hard_carbon, Hard Carbon Sword
+nuclearcraft:pickaxe_hard_carbon, Hard Carbon Pickaxe
+nuclearcraft:shovel_hard_carbon, Hard Carbon Shovel
+nuclearcraft:axe_hard_carbon, Hard Carbon Axe
+nuclearcraft:hoe_hard_carbon, Hard Carbon Hoe
+nuclearcraft:spaxelhoe_hard_carbon, Hard Carbon Spaxelhoe
+nuclearcraft:sword_boron_nitride, Boron Nitride Sword
+nuclearcraft:pickaxe_boron_nitride, Boron Nitride Pickaxe
+nuclearcraft:shovel_boron_nitride, Boron Nitride Shovel
+nuclearcraft:axe_boron_nitride, Boron Nitride Axe
+nuclearcraft:hoe_boron_nitride, Boron Nitride Hoe
+nuclearcraft:spaxelhoe_boron_nitride, Boron Nitride Spaxelhoe
+nuclearcraft:helm_boron, Boron Helmet
+nuclearcraft:chest_boron, Boron Chestplate
+nuclearcraft:legs_boron, Boron Leggings
+nuclearcraft:boots_boron, Boron Boots
+nuclearcraft:helm_tough, Tough Alloy Helmet
+nuclearcraft:chest_tough, Tough Alloy Chestplate
+nuclearcraft:legs_tough, Tough Alloy Leggings
+nuclearcraft:boots_tough, Tough Alloy Boots
+nuclearcraft:helm_hard_carbon, Hard Carbon Helmet
+nuclearcraft:chest_hard_carbon, Hard Carbon Chestplate
+nuclearcraft:legs_hard_carbon, Hard Carbon Leggings
+nuclearcraft:boots_hard_carbon, Hard Carbon Boots
+nuclearcraft:helm_boron_nitride, Boron Nitride Helmet
+nuclearcraft:chest_boron_nitride, Boron Nitride Chestplate
+nuclearcraft:legs_boron_nitride, Boron Nitride Leggings
+nuclearcraft:boots_boron_nitride, Boron Nitride Boots
 oeintegration:excavatemodifier, item.oeintegration.excavatemodifier.name
 openblocks:ladder, Jaded Ladder
 openblocks:guide, Building Guide
@@ -12234,6 +12806,32 @@ quantumstorage:quantumtank, Quantum Tank
 quantumstorage:renderupgrade, Upgrade Render
 questbook:ItemQuestBook, Quest Book
 rangedpumps:pump, Pump
+redstonearsenal:storage:0, Fluxed Electrum Block
+redstonearsenal:storage:1, Flux Crystal Block
+redstonearsenal:material:0, Fluxed Electrum Blend
+redstonearsenal:material:32, Fluxed Electrum Ingot
+redstonearsenal:material:64, Fluxed Electrum Nugget
+redstonearsenal:material:96, Fluxed Electrum Gear
+redstonearsenal:material:128, Fluxed Electrum Plate
+redstonearsenal:material:160, Flux Crystal
+redstonearsenal:material:192, Obsidian Rod
+redstonearsenal:material:193, Flux-Infused Obsidian Rod
+redstonearsenal:material:224, Fluxed Armor Plating
+redstonearsenal:armor.helmet_flux, Flux-Infused Helm
+redstonearsenal:armor.plate_flux, Flux-Infused Chestplate
+redstonearsenal:armor.legs_flux, Flux-Infused Leggings
+redstonearsenal:armor.boots_flux, Flux-Infused Boots
+redstonearsenal:tool.wrench_flux, Flux-Infused OmniWrench
+redstonearsenal:tool.battlewrench_flux, Flux-Infused BattleWrench
+redstonearsenal:tool.sword_flux, Flux-Infused Sword
+redstonearsenal:tool.shovel_flux, Flux-Infused Shovel
+redstonearsenal:tool.pickaxe_flux, Flux-Infused Pickaxe
+redstonearsenal:tool.axe_flux, Flux-Infused Axe
+redstonearsenal:tool.bow_flux, Flux-Infused Bow
+redstonearsenal:tool.fishing_rod_flux, Flux-Infused Fishing Rod
+redstonearsenal:tool.sickle_flux, Flux-Infused Sickle
+redstonearsenal:tool.hammer_flux, Flux-Infused Hammer
+redstonearsenal:tool.shield_flux, Flux-Infused Shield
 rftools:smartwrench, Smart Wrench
 rftools:rftools_manual, RFTools Manual
 rftools:rftools_shape_manual, RFTools Shape Manual
@@ -12925,6 +13523,14 @@ thermaldynamics:cover:0, Vertical Birch Wood Planks Cover
 thermaldynamics:cover:0, Vertical Jungle Wood Planks Cover
 thermaldynamics:cover:0, Vertical Acacia Wood Planks Cover
 thermaldynamics:cover:0, Vertical Dark Oak Wood Planks Cover
+thermaldynamics:cover:0, Spruce Bookshelf Cover
+thermaldynamics:cover:0, Birch Bookshelf Cover
+thermaldynamics:cover:0, Jungle Bookshelf Cover
+thermaldynamics:cover:0, Acacia Bookshelf Cover
+thermaldynamics:cover:0, Dark Oak Bookshelf Cover
+thermaldynamics:cover:0, Lit Redstone Lamp Cover
+thermaldynamics:cover:0, Blaze Lantern Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
 thermaldynamics:cover:0, Marble Cover
 thermaldynamics:cover:0, Polished Marble Cover
 thermaldynamics:cover:0, Limestone Cover
@@ -12943,14 +13549,6 @@ thermaldynamics:cover:0, Chiseled Biotite Block Cover
 thermaldynamics:cover:0, Pillar Biotite Block Cover
 thermaldynamics:cover:0, Basalt Cover
 thermaldynamics:cover:0, Polished Basalt Cover
-thermaldynamics:cover:0, Spruce Bookshelf Cover
-thermaldynamics:cover:0, Birch Bookshelf Cover
-thermaldynamics:cover:0, Jungle Bookshelf Cover
-thermaldynamics:cover:0, Acacia Bookshelf Cover
-thermaldynamics:cover:0, Dark Oak Bookshelf Cover
-thermaldynamics:cover:0, Lit Redstone Lamp Cover
-thermaldynamics:cover:0, Blaze Lantern Cover
-thermaldynamics:cover:0, Block of Charcoal Cover
 thermaldynamics:cover:0, Compressed Crafting Table Cover
 thermaldynamics:cover:0, Double Compressed Crafting Table Cover
 thermaldynamics:cover:0, Neutronium Block Cover
@@ -15518,6 +16116,42 @@ thermaldynamics:cover:0, §eGrowth Accelerator Cover
 thermaldynamics:cover:0, Mystical Machine Frame Cover
 thermaldynamics:cover:0, Glowstone Lamp Cover
 thermaldynamics:cover:0, Witherproof Block Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tin Ore Cover
+thermaldynamics:cover:0, Lead Ore Cover
+thermaldynamics:cover:0, Thorium Ore Cover
+thermaldynamics:cover:0, Uranium Ore Cover
+thermaldynamics:cover:0, Boron Ore Cover
+thermaldynamics:cover:0, Lithium Ore Cover
+thermaldynamics:cover:0, Magnesium Ore Cover
+thermaldynamics:cover:0, Copper Block Cover
+thermaldynamics:cover:0, Tin Block Cover
+thermaldynamics:cover:0, Lead Block Cover
+thermaldynamics:cover:0, Thorium Block Cover
+thermaldynamics:cover:0, Uranium Block Cover
+thermaldynamics:cover:0, Boron Block Cover
+thermaldynamics:cover:0, Lithium Block Cover
+thermaldynamics:cover:0, Magnesium Block Cover
+thermaldynamics:cover:0, Graphite Block Cover
+thermaldynamics:cover:0, Beryllium Block Cover
+thermaldynamics:cover:0, Zirconium Block Cover
+thermaldynamics:cover:0, Reactor Casing Cover
+thermaldynamics:cover:0, Blast Block Cover
+thermaldynamics:cover:0, Empty Cooler Cover
+thermaldynamics:cover:0, Water Cooler Cover
+thermaldynamics:cover:0, Redstone Cooler Cover
+thermaldynamics:cover:0, Quartz Cooler Cover
+thermaldynamics:cover:0, Gold Cooler Cover
+thermaldynamics:cover:0, Glowstone Cooler Cover
+thermaldynamics:cover:0, Lapis Cooler Cover
+thermaldynamics:cover:0, Diamond Cooler Cover
+thermaldynamics:cover:0, Liquid Helium Cooler Cover
+thermaldynamics:cover:0, Enderium Cooler Cover
+thermaldynamics:cover:0, Cryotheum Cooler Cover
+thermaldynamics:cover:0, Depleted Thorium Block Cover
+thermaldynamics:cover:0, Depleted Uranium Block Cover
+thermaldynamics:cover:0, Supercold Ice Cover
+thermaldynamics:cover:0, Fusion Connector Cover
 thermaldynamics:cover:0, Elevator Cover
 thermaldynamics:cover:0, Elevator Cover
 thermaldynamics:cover:0, Elevator Cover
@@ -15592,6 +16226,8 @@ thermaldynamics:cover:0, Direction Light lvl3 Cover
 thermaldynamics:cover:0, tile.direction_light_active_block.name Cover
 thermaldynamics:cover:0, tile.direction_light_active_level_2_block.name Cover
 thermaldynamics:cover:0, tile.direction_light_active_level_3_block.name Cover
+thermaldynamics:cover:0, Fluxed Electrum Block Cover
+thermaldynamics:cover:0, Flux Crystal Block Cover
 thermaldynamics:cover:0, Machine Frame Cover
 thermaldynamics:cover:0, Machine Base Cover
 thermaldynamics:cover:0, Dimensional Shard Ore Cover
