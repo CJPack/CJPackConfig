@@ -14,7 +14,7 @@ recipes.addShaped(<advgenerators:PowerIO>, [
 	[<ore:plateIron>, <minecraft:piston>, <ore:plateIron>]
 ]);
 
-# Iron Tubing
+# Tubing
 recipes.remove(<advgenerators:IronTubing>);
 recipes.addShapedMirrored(<advgenerators:IronTubing> * 4, [
 	[<ore:ingotIron>, null, null], 
@@ -26,4 +26,28 @@ recipes.addShapedMirrored(<advgenerators:IronWiring> * 4, [
 	[<ore:ingotIron>, <actuallyadditions:itemCrystal:0>, null], 
 	[<actuallyadditions:itemCrystal:0>, <ore:stickWood>, <actuallyadditions:itemCrystal:0>], 
 	[null, <actuallyadditions:itemCrystal:0>, <ore:ingotIron>]
+]);
+
+# Control Circuit
+recipes.remove(<advgenerators:Controller>);
+recipes.addShaped(<advgenerators:Controller>, [
+	[<ore:plateIron>, <actuallyadditions:itemCrystalEmpowered:0>, <ore:plateIron>], 
+	[<actuallyadditions:itemCrystalEmpowered:0>, <ore:gemQuartz>, <actuallyadditions:itemCrystalEmpowered:0>], 
+	[<ore:plateIron>, <actuallyadditions:itemCrystalEmpowered:0>, <ore:plateIron>]
+]);
+
+# Pressure Valves
+recipes.remove(<advgenerators:PressureValve>);
+recipes.addShaped(<advgenerators:PressureValve>, [
+	[null, <ore:plateIron>, null], 
+	[<advgenerators:IronTubing>, <advgenerators:IronTubing>, <advgenerators:IronTubing>], 
+	[null, <ore:plateIron>, null]
+]);
+
+# Upgrade Kits
+recipes.remove(<advgenerators:UpgradeKit>);
+recipes.addShaped(<advgenerators:UpgradeKit> * 4, [
+	[<ore:plateIron>, null, <ore:plateIron>], 
+	[null, <ore:stickWood>, null], 
+	[null, <ore:stickWood>, null]
 ]);
