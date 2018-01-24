@@ -51,3 +51,51 @@ recipes.addShaped(<advgenerators:UpgradeKit> * 4, [
 	[null, <ore:stickWood>, null], 
 	[null, <ore:stickWood>, null]
 ]);
+
+# Redstone Control
+recipes.remove(<advgenerators:Control>);
+recipes.addShaped(<advgenerators:Control>, [
+	[<advgenerators:IronFrame>, <ore:gemQuartz>, <advgenerators:IronFrame>], 
+	[<actuallyadditions:itemCrystal:0>, <actuallyadditions:itemCrystal:0>, <actuallyadditions:itemCrystal:0>], 
+	[<advgenerators:IronFrame>, <ore:gemQuartz>, <advgenerators:IronFrame>]
+]);
+
+# Sensor Module
+recipes.remove(<advgenerators:Sensor>);
+recipes.addShaped(<advgenerators:Sensor>, [
+	[<advgenerators:IronFrame>, <actuallyadditions:itemCrystal:0>, <advgenerators:IronFrame>], 
+	[<actuallyadditions:itemCrystal:0>, <ore:gemQuartz>, <actuallyadditions:itemCrystal:0>], 
+	[<advgenerators:IronFrame>, <actuallyadditions:itemCrystal:0>, <advgenerators:IronFrame>]
+]);
+
+# Tesla Generator
+recipes.remove(<advgenerators:TeslaOutput>);
+recipes.addShaped(<advgenerators:TeslaOutput>, [
+	[<actuallyadditions:itemCrystal:0>, <advgenerators:PowerIO>, <actuallyadditions:itemCrystal:0>], 
+	[<advgenerators:IronFrame>, <ore:plateGold>, <advgenerators:IronFrame>], 
+	[<advgenerators:IronWiring>, <actuallyadditions:itemCrystal:0>, <advgenerators:IronWiring>]
+]);
+
+# Forge Energy Emitter
+recipes.remove(<advgenerators:ForgeOutput>);
+recipes.addShaped(<advgenerators:ForgeOutput>, [
+	[<actuallyadditions:itemCrystal:0>, <advgenerators:PowerIO>, <actuallyadditions:itemCrystal:0>], 
+	[<advgenerators:IronFrame>, <advgenerators:IronTubing>, <advgenerators:IronFrame>], 
+	[<actuallyadditions:itemCrystal:0>, <advgenerators:IronWiring>, <actuallyadditions:itemCrystal:0>]
+]);
+
+# Fluid Intake Valve
+recipes.remove(<advgenerators:FluidInput>);
+recipes.addShaped(<advgenerators:FluidInput>, [
+	[<ore:plateIron>, null, <ore:plateIron>], 
+	[<advgenerators:IronFrame>, <ore:plateIron>, <advgenerators:IronFrame>], 
+	[null, <advgenerators:IronTubing>, null]
+]);
+
+# Fluid Output Valve
+recipes.remove(<advgenerators:FluidOutputSelect>);
+recipes.addShaped(<advgenerators:FluidOutputSelect>, [
+	[<ore:plateIron>, null, <ore:plateIron>], 
+	[<advgenerators:IronFrame>, <advgenerators:IronTubing>, <advgenerators:IronFrame>], 
+	[null, <advgenerators:IronTubing>, null]
+]);

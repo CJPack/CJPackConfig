@@ -1677,8 +1677,6 @@ appliedenergistics2:facade:0, Cable Facade - Granite Bricks
 appliedenergistics2:facade:0, Cable Facade - Midori Block
 appliedenergistics2:facade:0, Cable Facade - Midori Pillar
 appliedenergistics2:facade:0, Cable Facade - Vertical Oak Wood Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Marble
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -1686,6 +1684,8 @@ appliedenergistics2:facade:0, Cable Facade - Block of Biotite
 appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Neutronium Block
@@ -5195,7 +5195,80 @@ quark:vertical_planks:2, Vertical Birch Wood Planks
 quark:vertical_planks:3, Vertical Jungle Wood Planks
 quark:vertical_planks:4, Vertical Acacia Wood Planks
 quark:vertical_planks:5, Vertical Dark Oak Wood Planks
+quark:pirate_hat, item.pirate_hat.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:marble:0, Marble
+quark:marble:1, Polished Marble
+quark:stone_marble_slab:0, Marble Slab
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, Limestone
+quark:limestone:1, Polished Limestone
+quark:stone_limestone_slab:0, Limestone Slab
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:soul_bead, item.soul_bead.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:ancient_tome, item.ancient_tome.name
+quark:basalt:0, Basalt
+quark:basalt:1, Polished Basalt
+quark:stone_basalt_slab:0, Basalt Slab
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
 quark:witch_hat, item.witch_hat.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -5274,79 +5347,6 @@ quark:leaf_carpet:3, Jungle Leaf Carpet
 quark:leaf_carpet:4, Acacia Leaf Carpet
 quark:leaf_carpet:5, Dark Oak Leaf Carpet
 quark:charcoal_block, Charcoal Block
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:pirate_hat, item.pirate_hat.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:soul_bead, item.soul_bead.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:ancient_tome, item.ancient_tome.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
 avaritia:resource:0, Diamond Lattice
 avaritia:resource:1, Crystal Matrix Ingot
 avaritia:resource:2, Pile of Neutrons
@@ -5673,6 +5673,259 @@ bloodmagic:ItemSentientArmourChest, item.BloodMagic.sentientArmour..name
 bloodmagic:ItemSentientArmourLegs, item.BloodMagic.sentientArmour..name
 bloodmagic:ItemSentientArmourBoots, item.BloodMagic.sentientArmour..name
 bloodmagic:ItemAltarMaker, Altar Maker
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Downgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTome:0, Living Armour Upgrade Tome
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
 bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
 bloodmagic:ItemArcaneAshes, Arcane Ashes
 bloodmagic:ItemMonsterSoul:0, Demonic Will
@@ -13523,14 +13776,6 @@ thermaldynamics:cover:0, Vertical Birch Wood Planks Cover
 thermaldynamics:cover:0, Vertical Jungle Wood Planks Cover
 thermaldynamics:cover:0, Vertical Acacia Wood Planks Cover
 thermaldynamics:cover:0, Vertical Dark Oak Wood Planks Cover
-thermaldynamics:cover:0, Spruce Bookshelf Cover
-thermaldynamics:cover:0, Birch Bookshelf Cover
-thermaldynamics:cover:0, Jungle Bookshelf Cover
-thermaldynamics:cover:0, Acacia Bookshelf Cover
-thermaldynamics:cover:0, Dark Oak Bookshelf Cover
-thermaldynamics:cover:0, Lit Redstone Lamp Cover
-thermaldynamics:cover:0, Blaze Lantern Cover
-thermaldynamics:cover:0, Block of Charcoal Cover
 thermaldynamics:cover:0, Marble Cover
 thermaldynamics:cover:0, Polished Marble Cover
 thermaldynamics:cover:0, Limestone Cover
@@ -13549,6 +13794,14 @@ thermaldynamics:cover:0, Chiseled Biotite Block Cover
 thermaldynamics:cover:0, Pillar Biotite Block Cover
 thermaldynamics:cover:0, Basalt Cover
 thermaldynamics:cover:0, Polished Basalt Cover
+thermaldynamics:cover:0, Spruce Bookshelf Cover
+thermaldynamics:cover:0, Birch Bookshelf Cover
+thermaldynamics:cover:0, Jungle Bookshelf Cover
+thermaldynamics:cover:0, Acacia Bookshelf Cover
+thermaldynamics:cover:0, Dark Oak Bookshelf Cover
+thermaldynamics:cover:0, Lit Redstone Lamp Cover
+thermaldynamics:cover:0, Blaze Lantern Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
 thermaldynamics:cover:0, Compressed Crafting Table Cover
 thermaldynamics:cover:0, Double Compressed Crafting Table Cover
 thermaldynamics:cover:0, Neutronium Block Cover

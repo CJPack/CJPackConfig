@@ -2555,7 +2555,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotInvar",
               "Damage": 162
             }
@@ -2603,7 +2603,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotSteel",
               "Damage": 160
             }
@@ -2653,7 +2653,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotBronze",
               "Damage": 163
             }
@@ -2703,7 +2703,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotElectrum",
               "Damage": 161
             }
@@ -2753,7 +2753,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotConstantan",
               "Damage": 164
             }
@@ -2803,7 +2803,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotSignalum",
               "Damage": 165
             }
@@ -2853,7 +2853,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotLumium",
               "Damage": 166
             }
@@ -2903,7 +2903,7 @@
           "requiredItems": [
             {
               "id": "thermalfoundation:material",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotEnderium",
               "Damage": 167
             }
@@ -2953,7 +2953,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotRedstoneAlloy",
               "Damage": 3
             }
@@ -3001,7 +3001,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotConductiveIron",
               "Damage": 4
             }
@@ -3051,7 +3051,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotPulsatingIron",
               "Damage": 5
             }
@@ -3101,7 +3101,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotElectricalSteel",
               "Damage": 0
             }
@@ -3151,7 +3151,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotEnergeticAlloy",
               "Damage": 1
             }
@@ -3201,7 +3201,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotVibrantAlloy",
               "Damage": 2
             }
@@ -3251,7 +3251,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotDarkSteel",
               "Damage": 6
             }
@@ -3301,7 +3301,7 @@
           "requiredItems": [
             {
               "id": "enderio:itemAlloy",
-              "Count": 4,
+              "Count": 12,
               "OreDict": "ingotSoularium",
               "Damage": 7
             }
@@ -3315,6 +3315,443 @@
         52
       ],
       "questID": 53
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Leadstone Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 54
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Hardened Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        54
+      ],
+      "questID": 55
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Redstone Energy Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        55
+      ],
+      "questID": 56
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemPowerConduit",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Energy Conduit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemPowerConduit",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 57
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemPowerConduit",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Enhanced Energy Conduit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemPowerConduit",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        57
+      ],
+      "questID": 58
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "enderio:itemPowerConduit",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Ender Energy Conduit",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "enderio:itemPowerConduit",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        58
+      ],
+      "questID": 59
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Signalum Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 3
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        56
+      ],
+      "questID": 60
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 4
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Resonant Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        60
+      ],
+      "questID": 61
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "minecraft:entity.player.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "isMain": false,
+          "simultaneous": false,
+          "icon": {
+            "id": "thermaldynamics:ThermalDynamics_0",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 5
+          },
+          "snd_update": "minecraft:entity.player.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Cryo-Stabalised Fluxduct",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": ""
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "groupDetect": false,
+          "autoConsume": false,
+          "requiredItems": [
+            {
+              "id": "thermaldynamics:ThermalDynamics_0",
+              "Count": 6,
+              "OreDict": "",
+              "Damage": 5
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        61
+      ],
+      "questID": 62
     }
   ],
   "questLines": [
@@ -3681,6 +4118,60 @@
           "x": 36,
           "y": 216,
           "id": 53
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 6,
+          "id": 54
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 36,
+          "id": 55
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 66,
+          "id": 56
+        },
+        {
+          "size": 24,
+          "x": 96,
+          "y": 6,
+          "id": 57
+        },
+        {
+          "size": 24,
+          "x": 96,
+          "y": 36,
+          "id": 58
+        },
+        {
+          "size": 24,
+          "x": 96,
+          "y": 66,
+          "id": 59
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 96,
+          "id": 60
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 126,
+          "id": 61
+        },
+        {
+          "size": 24,
+          "x": 66,
+          "y": 156,
+          "id": 62
         }
       ],
       "lineID": 3,
